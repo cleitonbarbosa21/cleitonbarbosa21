@@ -1,4 +1,4 @@
-## 👋 Sobre mim
+## 👋 Olá, me chammo Cleiton Barbosa
 
 Profissional com **5 anos de experiência em Linux** e **3 anos em Kubernetes**, atuando na administração, automação e otimização de ambientes em nuvem e on-premises.  
 
